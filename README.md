@@ -35,4 +35,4 @@
 8. The Winner will get a free trip and 2 night accommodation for 2 people to the [Landing Festival](https://landingfestival.com/lisbon), so they can present their talk either on the 29th or the 30th of June, 2018.
 
 
-<p align="center"> <b>Landing Festival</b> Future. Tech. Careers. </p>
+<p align="center"> <b>Landing Festival</b></br> Future. Tech. Careers. </p>
