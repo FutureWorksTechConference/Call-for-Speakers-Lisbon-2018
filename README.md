@@ -10,7 +10,7 @@
 - After sharing your competition entree in your social networks, please fill this [Typeform](https://landingjobs.typeform.com/to/x3IuPP) with your name, email and the link of your share.
 - Shares without the hashtags will be discarded.
 - Our team will select the __3__ best proposals that will go to the Final Voting phase.
-- The voting will.
+- The Final Voting will be on our Social Networks.
 
 ### What should the proposal include?
 
@@ -35,4 +35,4 @@
 8. The Winner will get a free trip and 2 night accommodation for 2 people to the [Landing Festival](https://landingfestival.com/lisbon), so they can present their talk either on the 29th or the 30th of June, 2018.
 
 
-<p align="center"> <b>Landing Festival</b></br> Future. Tech. Careers. </p>
+<p align="center"> <b>Landing Festival Lisbon 2018</b></br> Future. Tech. Careers. </p>
