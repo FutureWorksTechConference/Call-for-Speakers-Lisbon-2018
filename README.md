@@ -1,4 +1,4 @@
-# Competition is open!
+# Competition is closed! Voting will start today on our Social Networks.
 
 ## Landing Festival Lisbon 2018 - Call For Speakers Competition
 
