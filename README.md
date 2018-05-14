@@ -29,8 +29,8 @@
 - __Careers__ - *The search for continuous self-improvement, one geeky conversation at a time. Up your game to the next level, exit the Matrix.*
 2. The maximum length for a talk is 20 mins. Proposals that don’t fit the tracks will be discarded.
 3. This competition is for *EU residents only*. If you leave outside the EU, follow us and keep posted for next events near your country of residence.
-4. The Call for Speakers will start on **April 24th** and the Top 3 for the Final Voting will be selected on the **18th of May**.
-5. Final Voting will be between the **21st and the 25th of May**.
+4. The Call for Speakers will start on **April 24th** and the Top 3 for the Final Voting will be selected on the **13th of May**.
+5. Final Voting will be between the **14th and the 18th of May**.
 7. The Top 3 proposals win a free Access Ticket for the [Landing Festival](https://landingfestival.com/lisbon).
 8. The Winner will get a free trip and 2 night accommodation for 2 people to the [Landing Festival](https://landingfestival.com/lisbon), so they can present their talk either on the 29th or the 30th of June, 2018.
 
